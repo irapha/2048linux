@@ -1,0 +1,10 @@
+Package: 2048
+Version: 1.7-1
+Architecture: amd64
+Maintainer: Raphael Gontijo Lopes <raphaelgontijolopes@gmail.com>
+Installed-Size: 69
+Section: games
+Priority: optional
+Description: A port of the web (and iOS) game to Linux's terminal
+ Written in C and available for free (along with the source code) online.
+ Uses ncurses library for compiling. Made by Raphael Gontijo Lopes.

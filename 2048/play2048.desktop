@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=gnome-panel-launcher
+Exec=/usr/games/2048
+Name[en_US]=play2048
+Comment[en_US]=Play 2048 in Linux's terminal.
+Name=2048
+Comment=Play 2048 in Linux's terminal.
+Icon=/usr/games/2048icon.png

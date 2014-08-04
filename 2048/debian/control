@@ -1,0 +1,16 @@
+Source: 2048
+Section: games
+Priority: optional
+Maintainer: Raphael Gontijo Lopes <raphaelgontijolopes@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: 
+#Vcs-Git: git://git.debian.org/collab-maint/2048.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/2048.git;a=summary
+
+Package: 2048
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A port of the web (and iOS) game to Linux's terminal
+ Written in C and available for free (along with the source code) online.
+ Uses ncurses library for compiling. Made by Raphael Gontijo Lopes.
